@@ -14,6 +14,9 @@
 
 ## Link do circuito - Falstad
 
+- https://tinyurl.com/5336sruf
+
+
 ## Esquemático da PCB
 
 ## Vídeo Youtube
@@ -23,6 +26,6 @@
 #### Enzo Abreu di'Santo
 #### Matheus de Oliveira Reis Pereira
 #### Davi Miguel Moreira Resende
-#### Daniel Meschiari 
+#### Daniel Meschiari da Silva
 
 ## Agradecimentos
