@@ -1,6 +1,6 @@
 # Projeto-Fonte-Eletrônica-USP
 
-## O projeto doi desenvolvido para disciplina de eletrônica
+## Projeto foi desenvolvido para disciplina de eletrônica
 
 ## Instruções:
 
