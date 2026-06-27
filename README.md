@@ -20,8 +20,7 @@ A alimentação do sistema será feita por meio de uma tomada convencional, que 
 | Resistor 3.3 kΩ   | 1          | R$ 1,00     |
 | Resistor 2.2 kΩ   | 1          | R$ 1,00     |
 | Resistor 100 Ω    | 1          | R$ 1,00     |
-| ----------------- | ---------- | ----------- |
-| Total             | 1 circuito | R$ 12,35    |
+| **Total**         | **1**      | **R$ 12,35**|
 
 ## Componentes
 
