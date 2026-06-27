@@ -35,6 +35,15 @@ A alimentação do sistema será feita por meio de uma tomada convencional, que 
 * **1x Resistor:** 120Ω (Limitador de corrente).
 * **1x Resistor:** 2.2kΩ (Limitador de corrente).
 
+---
+
+## O Circuito
+
+<img width="780" height="490" alt="image" src="https://github.com/user-attachments/assets/88f46812-c750-45fb-a035-b6d3e2f71525" />
+<img width="780" height="490" alt="image" src="https://github.com/user-attachments/assets/59e70e1f-aa3b-4064-b569-b9887f31c25f" />
+
+---
+
 ## Cáculos do circuito
 ### Dados
 - razão do transformador: 6.7
