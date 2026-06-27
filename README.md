@@ -11,7 +11,8 @@ A alimentação do sistema será feita por meio de uma tomada convencional, que 
 ## Escolha dos Componentes
 | Componente        | Quantidade | Preço total |
 | ----------------- | ---------- | ----------- |
-| Zener             | 4          | R$ 2,00     |
+| Diodo             | 4          | R$ 2,00     |
+| Zener             | 1          | R$ 0,50     |
 | Capacitor 470 μF  | 1          | R$ 1,70     |
 | Potenciômetro 10k | 1          | R$ 3,50     |
 | LED               | 1          | R$ 0,15     |
@@ -20,7 +21,7 @@ A alimentação do sistema será feita por meio de uma tomada convencional, que 
 | Resistor 3.3 kΩ   | 1          | R$ 1,00     |
 | Resistor 2.2 kΩ   | 1          | R$ 1,00     |
 | Resistor 100 Ω    | 1          | R$ 1,00     |
-| **Total**         | **1**      | **R$ 12,35**|
+| **Total**         | **1**      | **R$ 12,85**|
 
 ## Componentes
 
@@ -101,9 +102,11 @@ A alimentação do sistema será feita por meio de uma tomada convencional, que 
 
 ## Vídeo Youtube
 
-## Alunos:
+## Alunos
 
 #### Enzo Abreu Di Santo
 #### Matheus de Oliveira Reis Pereira
 #### Davi Miguel Moreira Resende
 #### Daniel Meschiari da Silva
+
+## Agradecimentos
