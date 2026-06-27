@@ -110,3 +110,4 @@ A alimentação do sistema será feita por meio de uma tomada convencional, que 
 #### Daniel Meschiari da Silva
 
 ## Agradecimentos
+Agradecemos ao Simões por ter nos proporcionado a oportunidade de participar de um trabalho em equipe, juntando nossas forças para um bem maior.
