@@ -9,6 +9,17 @@ Desenvolver e montar uma fonte de alimentação retificadora com saída ajustáv
 A alimentação do sistema será feita por meio de uma tomada convencional, que fornece uma tensão eficaz de 127 V (equivalente a 179,6 V de pico) e frequência de 60 Hz. O objetivo final é que o circuito processe esse sinal e entregue na saída uma tensão contínua que possa ser controlada pelo usuário na faixa de 3 V a 12 V.
 
 ## Escolha dos Componentes
+| Componente        | Quantidade | Preço total |
+| ----------------- | ---------- | ----------- |
+| Zener             | 4          | R$ 2,00     |
+| Capacitor 470 μF  | 1          | R$ 1,70     |
+| Potenciômetro 10k | 1          | R$ 3,50     |
+| LED               | 1          | R$ 0,15     |
+| Transistor        | 1          | R$ 1,00     |
+| Resistor 4.7 kΩ   | 1          | R$ 1,00     |
+| Resistor 3.3 kΩ   | 1          | R$ 1,00     |
+| Resistor 2.2 kΩ   | 1          | R$ 1,00     |
+| Resistor 100 Ω    | 1          | R$ 1,00     |
 
 ## Componentes
 
