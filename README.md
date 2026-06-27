@@ -55,29 +55,29 @@ A alimentação do sistema será feita por meio de uma tomada convencional, que 
 - ganho do transistor: 100
 
 ### Calculando
-- TRANSFORMAÇÃO
-	- tensão de pico: 127 V x $\sqrt{2}$ = 180 V
-	- tensão secundário: $\frac{180}{6.7}$ = 26,86 V ~ 27 V
-- RETIFICAÇÃO
-	- tensão máxima: 27 V - 1.4 V = 25.6 V
-- CORRENTES
-	- corrente de carga: $\frac{12}{120}$ = 100 mA
-	- corrente da base do transistor: $\frac{0.1}{100}$ = 0.1 mA
-	- corrente zener: $\frac{25.6 - 13}{4700}$ = 2,6 mA
-	- corrente LED: $\frac{25.6 - 1.7}{2200}$ = 1 mA
-	- corrente total: 2.6 + 1 = 3.6 mA
-- RIPPLE
-	- tensão ripple: $\frac{3.6}{120}$ = 0,03 V
-	- tensão retificada mínima: 25.6 - 0.03 = 25.57 V
-- REGULAÇÃO
-	- tensão na base: ${13}\times{\frac{R}{10000}}$
-	- tensão na saída: ${13}\times{\frac{R}{10000}} - {0.7}$
-	- com potenciômetro no mínimo:
-		- tensão na base: 0 V
-		- tensão na saída: -0.7 V ~ 0 V
-	- com potenciômetro no máximo:
-		- tensão na base: 13 V
-		- tensão na saída: 12.3 V
+### TRANSFORMAÇÃO
+- tensão de pico: 127 V x $\sqrt{2}$ = 180 V
+- tensão secundário: $\frac{180}{6.7}$ = 26,86 V ~ 27 V
+### RETIFICAÇÃO
+- tensão máxima: 27 V - 1.4 V = 25.6 V
+### CORRENTES
+- corrente de carga: $\frac{12}{120}$ = 100 mA
+- corrente da base do transistor: $\frac{0.1}{100}$ = 0.1 mA
+- corrente zener: $\frac{25.6 - 13}{4700}$ = 2,6 mA
+- corrente LED: $\frac{25.6 - 1.7}{2200}$ = 1 mA
+- corrente total: 2.6 + 1 = 3.6 mA
+### RIPPLE
+- tensão ripple: $\frac{3.6}{120}$ = 0,03 V
+- tensão retificada mínima: 25.6 - 0.03 = 25.57 V
+### REGULAÇÃO
+- tensão na base: ${13}\times{\frac{R}{10000}}$
+- tensão na saída: ${13}\times{\frac{R}{10000}} - {0.7}$
+- com potenciômetro no mínimo:
+	- tensão na base: 0 V
+	- tensão na saída: -0.7 V ~ 0 V
+- com potenciômetro no máximo:
+	- tensão na base: 13 V
+	- tensão na saída: 12.3 V
 
 
 ## Link do circuito - Falstad
@@ -91,7 +91,7 @@ A alimentação do sistema será feita por meio de uma tomada convencional, que 
 
 ## Alunos:
 
-#### Enzo Abreu di'Santo
+#### Enzo Abreu Di Santo
 #### Matheus de Oliveira Reis Pereira
 #### Davi Miguel Moreira Resende
 #### Daniel Meschiari da Silva
