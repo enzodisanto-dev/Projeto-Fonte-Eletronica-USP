@@ -95,5 +95,3 @@ A alimentação do sistema será feita por meio de uma tomada convencional, que 
 #### Matheus de Oliveira Reis Pereira
 #### Davi Miguel Moreira Resende
 #### Daniel Meschiari da Silva
-
-## Agradecimentos
