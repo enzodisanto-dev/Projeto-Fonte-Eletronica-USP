@@ -38,11 +38,11 @@ A alimentação do sistema será feita por meio de uma tomada convencional, que 
 ## Cáculos do circuito
 ### Dados
 - razão do transformador: 6.7
-- capacitância: 470 $\micro$F
+- capacitância: 470 μF
 - tensão do zener: 13 V
-- resistor em série com zener: 4.7 k$\ohm$
-- resistência do potenciômetro: 10 k$\ohm$
-- resistor do celular: 120 $\ohm$
+- resistor em série com zener: 4.7 Ω
+- resistência do potenciômetro: 10 Ω
+- resistor do celular: 120 Ω
 - ganho do transistor: 100
 
 ### Calculando
