@@ -38,7 +38,7 @@ A alimentação do sistema será feita por meio de uma tomada convencional, que 
 ## O circuito
 
 ## Cáculos do circuito
-# Dados
+### Dados
 - razão do transformador: 6.7
 - capacitância: 470 $\micro$F
 - tensão do zener: 13 V
@@ -47,7 +47,7 @@ A alimentação do sistema será feita por meio de uma tomada convencional, que 
 - resistor do celular: 120 $\ohm$
 - ganho do transistor: 100
 
-# Calculando
+### Calculando
 - TRANSFORMAÇÃO
 	- tensão de pico: 127 V x $\sqrt{2}$ = 180 V
 	- tensão secundário: $\frac{180}{6.7}$ = 26,86 V ~ 27 V
