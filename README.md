@@ -100,6 +100,10 @@ A alimentação do sistema será feita por meio de uma tomada convencional, que 
 
 ## Esquemático da PCB
 
+<img width="914" height="808" alt="image" src="https://github.com/user-attachments/assets/fb87eaab-5482-4054-adc8-c0ec76ca144b" />
+
+
+
 ## Vídeo Youtube
 
 ## Alunos
